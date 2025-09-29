@@ -73,6 +73,10 @@ The analysis was conducted in three main parts:
 * **Practical Significance**: Despite the statistical result, we observed a large positive increase of **+43.78 rides per hour** in the post-launch period (788.57 vs. 744.78). This is well above a practical threshold of +15 rides/hour.
 * **Recommendation**: The result is **promising but inconclusive**, likely due to a small sample size. The recommendation is to **continue the experiment to collect more data**, as the strong positive trend justifies further testing.
 
+## Presentation Slides
+
+[![View Slides](https://img.shields.io/badge/Google-Slides-orange?style=for-the-badge&logo=googleslides&logoColor=white)](https://docs.google.com/presentation/d/1nclAYTitozg5Z0CRpzqnbQRxzXK4ON4zzQZ8AxnxCY0/edit?usp=sharing)
+
 ## Ethics & Limitations
 
 * **Observational Data**: This analysis is based on historical, observational data. While we identified strong correlations, we cannot prove causation.
