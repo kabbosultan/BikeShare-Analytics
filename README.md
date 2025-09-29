@@ -89,3 +89,4 @@ The analysis was conducted in three main parts:
 * `README.md`: This summary file.
 * `bike_share_analysis.ipynb`: The Jupyter Notebook containing all Python code for the analysis.
 * `hour.csv`: The dataset used for this analysis.
+* `slides.pdf`: The presentation slides for the analysis.
